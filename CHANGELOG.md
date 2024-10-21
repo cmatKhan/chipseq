@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Enhancements & fixes
 
+- [[#429](https://github.com/nf-core/chipseq/issues/429)] - Correcting the nextseq trimming setting in conf/modules.config
+
 ### Parameters
 
 | Old parameter | New parameter |
